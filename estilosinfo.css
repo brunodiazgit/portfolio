@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/portfolio.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+.ph{
+  height: 60vh;
+  margin: 13%;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  }
+
+  .tamaño{
+    margin: 5%;
+    width: 250px;
+    height: 250px;
+  }
+
+
+  .divAvatar{
+    height: 30%;
+    width: 80%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10%;
+    background-color: darkseagreen;
+    opacity: 0.8;
+    border-radius: 10px;
+  }
+
+ .bruno{
+  height: 260px;
+  border-radius: 160px;
+ }
+
+ .container1{
+  margin: 7%;
+  display: flex;
+  float: right;
+  justify-content:space-evenly;
+  align-items: center;
+ }
+
+
+  .divExp{
+    height: 30%;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: darkseagreen;
+    opacity: 0.8;    
+    border-radius: 10px;
+    
+
+ }
+
+ .container2{
+  margin: 5%;
+  display: flex;
+  float: left;
+  justify-content: space-around;
+  align-items: center;
+ }
+
+ .logosresponsive{
+  height: 300px;
+  border-radius: 10px;
+  margin: 10%;
+ }
+
+ .container3{
+  margin: 9%;
+  display: flex;
+  float: left;
+  justify-content: space-around;
+  align-items: center;
+ }
+
+ .divContacto{
+  height: 28%;
+  width: 110%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10%;
+  background-color: darkseagreen;
+  opacity: 0.8;    
+  border-radius: 10px;
+  
+
+ }
+
+ a{
+  font-size: 30px;
+ }
+
+ .back{
+  font-size: 25px;
+  
+ }

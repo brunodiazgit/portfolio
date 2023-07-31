@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("images/portfolio.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+.title{ 
+    align-items: center;
+      
+     } 
+
+    .presentacion{  
+        font-size: 500%;
+        text-align: center;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    .link{
+        height: 40vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+   a{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px black; 
+    font-size: 130%;
+    }
+
+    
